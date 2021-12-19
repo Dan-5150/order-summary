@@ -1,0 +1,16 @@
+.card {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.change-btn {
+  text-align: end;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
