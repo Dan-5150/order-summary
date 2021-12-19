@@ -10,8 +10,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -22,14 +20,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./src/assets/images/screenshot.png)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+<img src="./src/assets/images/screenshot.png" alt="Desktop Screenshot" width="400px" />
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://dan-5150.github.io/order-summary/)
 
 ### Built with
 
@@ -39,8 +34,6 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
