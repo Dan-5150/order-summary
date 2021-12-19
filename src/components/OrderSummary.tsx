@@ -7,7 +7,7 @@ import MusicIcon from "../assets/images/icon-music.svg";
 const OrderSummary = () => {
   return (
     <div
-      className="card flex flex-col justify-content-center m-auto bg-white w-1/3 min-w-[340px] max-w-[400px] rounded-2xl text-center
+      className="card flex flex-col justify-content-center m-auto bg-white w-1/3 min-w-[340px] max-w-[400px] rounded-2xl text-center shadow-xl
     "
     >
       <img src={Hero} alt="Hero" className="rounded-t-2xl" />
