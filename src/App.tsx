@@ -1,10 +1,15 @@
 import React from "react";
 import "./App.css";
 import OrderSummary from "./components/OrderSummary";
+import DesktopBackground from "./assets/images/pattern-background-desktop.svg";
+import MobileBackground from "./assets/images/pattern-background-mobile.svg";
 
 function App() {
   return (
     <main>
+      <img src={DesktopBackground} alt="Background" className="w-full hidden md:block" />
+      <img src={MobileBackground} alt="Background" className="w-full block md:hidden" />
+
       <OrderSummary />
 
       <div className="absolute bottom-0 text-sm">
